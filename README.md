@@ -4,6 +4,6 @@
 
 - <b>Python Side Projects</b>
   - [PortScanner](https://github.com/GeorgeRaymond98/PortScanner.git)
-  - [Password Strength Checker](https://github.com/georgeraymond98/post-install-config](https://github.com/GeorgeRaymond98/Password-Strength-Checker-and-Secure-Storage))
+  - [Password Strength Checker](https://github.com/GeorgeRaymond98/Password-Strength-Checker-and-Secure-Storage.git)
   - [Password Manager](https://github.com/GeorgeRaymond98/PasswordManager.git)
   - [Password_Generator](https://github.com/GeorgeRaymond98/password_generator.git)
